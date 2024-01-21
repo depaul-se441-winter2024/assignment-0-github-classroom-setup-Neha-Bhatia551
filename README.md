@@ -19,7 +19,7 @@ will require basic git skills.
 
 ## My Information
 
-My name is Neha Bhatia and my GitHub alias is Neha Bhatia.
+My name is Neha Bhatia and my GitHub alias is Neha-Bhatia551.
 
 ## Optional Next Steps
 
